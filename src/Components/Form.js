@@ -47,6 +47,7 @@ export default function Form() {
   };
   return (
     <>
+     <h2 className="text-2xl font-semibold  mt-2 mb-4 text-center">Application Form</h2>
       <InputField
         label="Name"
         name="name"
